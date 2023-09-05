@@ -2,7 +2,7 @@
 
 ##### I'm Rong and I'm a student in the middle school in China.
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa/api?username=CLimber-Rong&show_icons=true)
+**[![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-rong&count_private=true&show_icons=true)](https://github.com/climber-rong)**
 
 My Email: woshiquxiangrong@outlook.com
 <br>
