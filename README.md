@@ -4,6 +4,8 @@
 
 **[![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-rong&count_private=true&show_icons=true)](https://github.com/climber-rong)**
 
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLimber-Rong)](https://github.com/Climber-Rong)**
+
 My Email: woshiquxiangrong@outlook.com
 <br>
 My Website: https://CLimber-Rong.github.io/
