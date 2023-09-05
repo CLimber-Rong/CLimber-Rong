@@ -2,7 +2,7 @@
 
 ##### I'm Rong and I'm a student in the middle school in China.
 
-![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true)
+![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLimber-Rong&show_icons=true)
 
 My Email: woshiquxiangrong@outlook.com
 <br>
