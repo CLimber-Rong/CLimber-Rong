@@ -6,6 +6,12 @@
 
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLimber-Rong)](https://github.com/Climber-Rong)**
 
+![C](https://img.shields.io/badge/-C-192133?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-Cplusplus-192133?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
+
 My Email: woshiquxiangrong@outlook.com
 <br>
 My Website: https://CLimber-Rong.github.io/
