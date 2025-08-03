@@ -1,6 +1,6 @@
 # Hello world!
 
-##### I'm Rong and I'm a student in the middle school in China.
+##### I'm Rong and I'm a student in the senior high school in China.
 
 **[![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=climber-rong&count_private=true&show_icons=true)](https://github.com/climber-rong)**
 
