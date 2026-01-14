@@ -13,9 +13,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/CLimber-Rong?logo=GitHub&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/CLimber-Rong?logo=github&style=for-the-badge)
 
-<h5 style="font-family: Courier New"><i>My Email: woshiquxiangrong@outlook.com</i></h5>
+<h3 style="font-family: Courier New"><i>My Email: woshiquxiangrong@outlook.com</i></h3>
 
-<h5 style="font-family: Courier New"><i>My Website: <a href="https://CLimber-Rong.github.io/">https://CLimber-Rong.github.io/</a></i></h5>
+<h3 style="font-family: Courier New"><i>My Website: <a href="https://CLimber-Rong.github.io/">https://CLimber-Rong.github.io/</a></i></h3>
 
 ---
 
