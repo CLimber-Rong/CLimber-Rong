@@ -13,6 +13,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/CLimber-Rong?logo=GitHub&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/CLimber-Rong?logo=github&style=for-the-badge)
 
+![stat](https://analyze-lac.vercel.app/api?username=CLimber-Rong&show_icons=true&theme=default&hide_border=true)
+![top-lang](https://analyze-lac.vercel.app/api/top-langs/?username=CLimber-Rong&layout=compact&theme=default&hide_border=true)
+
 <h3 style="font-family: Courier New"><i>My Email: woshiquxiangrong@outlook.com</i></h3>
 
 <h3 style="font-family: Courier New"><i>My Website: <a href="https://CLimber-Rong.github.io/">https://CLimber-Rong.github.io/</a></i></h3>
@@ -21,7 +24,8 @@
 
 <h2>Recent News...</h2>
 
-<h5>2025.1.14 - My Profile has been upgraded</h5>
+<h5>2025.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
+<h5>2025.1.14 - My profile has been upgraded</h5>
 
 <!---
 CLimber-Rong/CLimber-Rong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
