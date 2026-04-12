@@ -11,7 +11,7 @@
 ![Alpine Linux](https://img.shields.io/badge/-alpine%20linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=0D597F&labelColor=black)
 <br>
 ![GitHub followers](https://img.shields.io/github/followers/CLimber-Rong?logo=GitHub&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/CLimber-Rong?logo=github&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/CLimber-Rong?logo=Github&style=for-the-badge)
 
 ![stat](https://analyze-lac.vercel.app/api?username=CLimber-Rong&show_icons=true&theme=default&hide_border=true)
 ![top-lang](https://analyze-lac.vercel.app/api/top-langs/?username=CLimber-Rong&layout=compact&theme=default&hide_border=true)
