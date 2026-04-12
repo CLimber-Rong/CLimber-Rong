@@ -24,8 +24,8 @@
 
 <h2>Recent News...</h2>
 
-<h5>2025.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
-<h5>2025.1.14 - My profile has been upgraded</h5>
+<h5>2026.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
+<h5>2026.1.14 - My profile has been upgraded</h5>
 
 <!---
 CLimber-Rong/CLimber-Rong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
