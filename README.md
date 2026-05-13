@@ -24,6 +24,7 @@
 
 <h2>Recent News...</h2>
 
+<h5>2026.5.13 - My brand new project <a href="https://github.com/CLimber-Rong/jitrix">jitrix</a> was released</h5>
 <h5>2026.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
 <h5>2026.1.14 - My profile has been upgraded</h5>
 
