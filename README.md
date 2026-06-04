@@ -13,8 +13,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/CLimber-Rong?logo=GitHub&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/CLimber-Rong?logo=Github&style=for-the-badge)
 
-![stat](https://analyze-lac.vercel.app/api?username=CLimber-Rong&show_icons=true&theme=default&hide_border=true)
-![top-lang](https://analyze-lac.vercel.app/api/top-langs/?username=CLimber-Rong&layout=compact&theme=default&hide_border=true)
+
+![stat](https://raw.githubusercontent.com/yanami-dai-suki/github-stats-cache/refs/heads/main/profile/CLimber-rong-stats.svg)
+![top-lang](https://raw.githubusercontent.com/yanami-dai-suki/github-stats-cache/refs/heads/main/profile/CLimber-rong-top-langs.svg)
 
 <h3 style="font-family: Courier New"><i>My Email: woshiquxiangrong@outlook.com</i></h3>
 
@@ -24,6 +25,7 @@
 
 <h2>Recent News...</h2>
 
+<h5>2026.6.4 - Update statistic-cards to my profile</h5>
 <h5>2026.5.13 - My brand new project <a href="https://github.com/CLimber-Rong/jitrix">jitrix</a> was released</h5>
 <h5>2026.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
 <h5>2026.1.14 - My profile has been upgraded</h5>
