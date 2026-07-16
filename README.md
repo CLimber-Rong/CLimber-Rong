@@ -25,6 +25,7 @@
 
 <h2>Recent News...</h2>
 
+<h5>2026.7.16 - Stamon will be refactored, The new branch named "adventure"</h5>
 <h5>2026.6.4 - Update statistic-cards to my profile</h5>
 <h5>2026.5.13 - My brand new project <a href="https://github.com/CLimber-Rong/jitrix">jitrix</a> was released</h5>
 <h5>2026.2.9 - Add statistic-cards to my profile, thanks to <a href="https://github.com/Kon-daisuki">Kon-daisuki</a></h5>
