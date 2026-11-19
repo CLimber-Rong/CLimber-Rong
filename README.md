@@ -25,6 +25,7 @@
 
 <h2>Recent News...</h2>
 
+<h5>2026.11.19 - <a href="https://stamon-playground.github.io">Stamon Playground</a> is now open <a href="https://github.com/stamon-playground/stamon-playground.github.io/">source</a></h5>
 <h5>2026.7.28 - My <a href="https://adventure-x.org">AdventureX</a> 2026 Entry Project <a href="https://github.com/frankWkd-Plus/ToyDiary">"ToyDiary"</a> was released</h5>
 <h5>2026.7.16 - Stamon will be refactored, The new branch named <a href="https://github.com/CLimber-Rong/stamon/tree/adventure">"adventure"</a></h5>
 <h5>2026.6.4 - Update statistic-cards to my profile</h5>
